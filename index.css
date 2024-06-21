@@ -142,9 +142,6 @@ nav{
 }
 
 
-
-
-
 .dropdown-options{
     display: none;
     width: 150px;
@@ -177,7 +174,6 @@ nav{
 
 .dropdown-options.dropdown-show{
     display: flex;
-    background-color: brown;
 }
 
 .show{
